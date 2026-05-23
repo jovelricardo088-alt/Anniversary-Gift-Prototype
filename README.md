@@ -24,6 +24,14 @@ The goal of this project is to combine programming, electronics, and 3D design t
 - Basic state control system
 
 ---
+---
+
+## 🎥 Video Demo
+
+This video shows the LCD message system controlled by the button and how the project currently works as a prototype.
+
+[Click here ](https://github.com/user-attachments/assets/fd05c942-42db-4d0f-a461-cd91c6304714)
+**
 
 ##  How It Works
 Each time the button is pressed, the value of `led_num` increases.  
