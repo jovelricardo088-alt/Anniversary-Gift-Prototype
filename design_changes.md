@@ -88,7 +88,7 @@ The attempt was unsuccessful.
 
 **Code File:** codes/final_version.ino`
 ## image
-[final version!](images/final.png)
+![final version!](images/final.png)
 
 ### Goal
 
