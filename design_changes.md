@@ -34,7 +34,7 @@ Successfully displayed messages on the LCD.
 **Code File:** `codes/v2_lcd_button.ino`
 
 ## image:
-[lcd](images/v1_lcd_prototype.jpg)
+![lcd](images/v1_lcd_prototype.jpg)
 
 ### Goal
 
