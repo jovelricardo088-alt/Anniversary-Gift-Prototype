@@ -158,7 +158,7 @@ The project became easier and more natural to use because the user no longer nee
 
 ## Final Build
 The image below shows the final version
-![Final](final_build.png)
+![Final](final.png)
 ---
 
 ## Challenges
