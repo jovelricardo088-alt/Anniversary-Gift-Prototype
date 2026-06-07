@@ -156,6 +156,9 @@ The project became easier and more natural to use because the user no longer nee
 
    * Outputs remain inactive.
 
+## Final Build
+The image below shows the final version
+{final_build.jpg}
 ---
 
 ## Challenges
