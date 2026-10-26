@@ -249,7 +249,7 @@ Adding the buzzer meant fitting song playback into code that was already managin
 
 ## Credits
 
-* Song playback code adapted from a GitHub repository: [add repo name and link here]
+* Song playback code adapted from a GitHub repository: arduino-songs
 * Melody from *The Legend of Zelda: Ocarina of Time* (Nintendo)
 
 ---
