@@ -141,7 +141,7 @@ The project became easier and more natural to use because the user no longer nee
 
 **Prototype**
 
-![Version 4 - Ultrasonic sensor prototype](images/v3_prototype.jpg)
+![Version 4 - Ultrasonic sensor prototype](images/v3_prototype.png)
 
 ---
 
